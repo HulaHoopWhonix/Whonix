@@ -1,7 +1,6 @@
 # QXL rendering performance enhancement for Whonix KVM #
 
 See also:
-https://tor.stackexchange.com/questions/427/is-running-tor-over-tor-dangerous
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
