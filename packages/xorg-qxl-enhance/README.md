@@ -1,6 +1,7 @@
 # QXL rendering performance enhancement for Whonix KVM #
 
 See also:
+- https://www.whonix.org/wiki/KVM
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
